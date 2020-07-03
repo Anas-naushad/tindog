@@ -1,0 +1,62 @@
+.content_my{margin: 3% 10%;}
+.content_padd{padding: 8% 10%;}
+body{font-family: "Montserrat";}
+h2{font-family: "Montserrat"; font-weight: bold; line-height: 1.5; font-size: 2rem; }
+
+nav div ul li a:hover{background-color :aliceblue; border-radius: 10px; }
+
+#title{background-color: #ff4c68; height: 50%;  }
+
+#heading{font-family: "Montserrat"; size: 3rem; line-height: 1.5; font-weight: 700; padding: 20% 0 10% 0; color: #fff;}
+
+.container-fluid{padding: 3% 15% 5% 15%;}
+
+/* .btn{width: 30%; height: 10%; margin-right: 2%;}
+.{margin: 2%;} */
+
+/* .a_mar{margin: 2%;} */
+
+nav div ul li{margin: 4%;}
+
+
+                /* phone+dog img */
+.ro{    
+        transform: rotate(20deg); 
+        width: 45%;
+        position: absolute; 
+        top: 10%;
+        left: 30%;
+        /* padding: 7% 0 0 0 ;  */
+         /* margin-left: 30%;   */
+          /* position: relative; */
+        }
+
+.navbar-brand{
+    font-family: "Ubuntu";
+}
+
+.navbar{padding-left:  0;}
+
+
+            /* features */
+#features{background-color: #fff; position: relative; z-index: 1; }
+#features div div{ text-align: center; padding: 5%;}
+#features div div a{color: #ef8172;}
+#features div div h3{font-family: "Montserrat"; font-weight: bold; font-size: 1.5rem; margin-top: 10%;}
+#features div div p{color: #8f8f8f;}
+#features div div:hover{border: 6px solid blue; border-radius: 2%; cursor: pointer;}
+#features div div a:hover{color: #ff4c68;}
+
+        /* testimonials */
+#testimonials{text-align: center; background-color:#ef8172; color: #fff; }
+#testimonials img{width: 10%; border-radius: 100%; margin: 20px;}
+.carousel-item{padding: 5% 10%;}
+
+        /* press */
+#press{background-color:#ef8172; text-align: center; padding-bottom: 3%;}
+.press_logo{width: 15%; margin: 20px 20px 50px;}
+
+
+        /* pricing */
+#pricing{text-align: center; padding: 50px;}
+.pricing_column{padding: 3% 2%;}
